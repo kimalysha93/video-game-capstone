@@ -13,7 +13,7 @@ Last Updated: October 2024
 
 ## In this Github Project
 
-The folder for [capstone_spreadsheets_sql_slideshow](capstone_spreadsheets_sql_slideshow) includes all the work done with Google Sheets (spreadsheets), BigQuery (SQL), and Google Slides (slideshow). See the MD file for a detailed documentation of the processes I followed in these three programs.
+The folder for [capstone_spreadsheets_sql_slideshow](capstone_spreadsheets_sql_slideshow) includes all the work done with Google Sheets (spreadsheets), BigQuery (SQL), and Google Slides (slideshow). See the [MD file](capstone_spreadsheets_sql_slideshow\README.md) for a detailed documentation of the processes I followed in these three programs.
 
 ## About the Data
 
