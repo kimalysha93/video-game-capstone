@@ -52,14 +52,14 @@ Used Google Slides to create a slideshow for this Capstone that can be viewed [h
   - Determined Nintendo was highest rated
   - Decided to focus on NA and EU audiences for the sake of the scenario, to make join example
 
-![top_developers_in_na_and_eu](capstone_spreadsheets_sql_slideshow\images\top_developers_in_na_and_eu.PNG)
+![top_developers_in_na_and_eu](./images/top_developers_in_na_and_eu.PNG)
 
 - Used SQL query to create a table for just Nintendo games from [video_game_sales_with_scores_and_ratings.csv](data\video_game_sales_with_scores_and_ratings.csv)
   - Created new column for _Total_Sales_NA_EU_
   - Included _Rating_ and sorted by _Average_Score_
   - Downloaded as [_nintendo_data_](data\nintendo_data.csv)
 
-![nintendo_data](capstone_spreadsheets_sql_slideshow\images\nintendo_data.PNG)
+![nintendo_data](./images/nintendo_data.PNG)
 
 ### Changelog: Google Sheets (3/4)
 
